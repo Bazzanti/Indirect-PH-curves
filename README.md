@@ -25,3 +25,6 @@ Xing-Jiang Lu, Jianmin Zheng, Yiyu Cai, Gang Zhao.
 Geometric characteristics of a class of cubic curves with
 rational offsets.
 Computer-Aided Design 2016; 70:36-45.
+
+
+Work made in 2018.
